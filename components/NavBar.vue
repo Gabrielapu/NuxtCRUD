@@ -12,7 +12,6 @@
           <b-nav-item to="/vuex">Vuex</b-nav-item>
           <b-nav-item to="/contacto">Contacto</b-nav-item>
         </b-navbar-nav>
-        
       </b-collapse>
     </b-navbar>
   </div>
